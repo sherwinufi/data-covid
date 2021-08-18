@@ -3,4 +3,4 @@ Data COVID
 - Membuat visualisasi data Covid 
 - Mempublikasi data Covid
 - Melakukan evaluasi data Covid
-- Menyiapkan tim Covid
+- Menyiapkan team Covid
