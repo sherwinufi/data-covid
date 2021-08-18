@@ -1,0 +1,4 @@
+Data COVID
+- Menyiapkan dashboard data Covid harian
+- Membuat visualisasi data Covid 
+- Mempublikasi data Covid
